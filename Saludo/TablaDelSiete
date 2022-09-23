@@ -1,0 +1,4 @@
+# Tabla de siete
+for i in range(1,11):
+	print(print ("7 X "+str(i)," = " + str(j*7))
+	j++
